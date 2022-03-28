@@ -1,6 +1,1 @@
-/*!
-* Start Bootstrap - Business Casual v7.0.6 (https://startbootstrap.com/theme/business-casual)
-* Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
-*/
-// Highlights current date on contact page
+cb7c124a9fa1aa5da3efde7e8d778ac99045dabc
